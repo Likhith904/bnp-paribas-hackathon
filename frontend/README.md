@@ -1,8 +1,25 @@
-# React + Vite
+# Team4KYC Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## To run this part of the project follow the below steps
 
-Currently, two official plugins are available:
+## Clone this project
+```sh
+git clone https://github.com/Likhith904/bnp-paribas-hackathon.git
+```
+## Change to this directory
+```sh
+cd frontend
+```
+## Requirements
+- Node v18 or above
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install all the dependencies
+```sh
+npm install
+```
+
+## Run the frontend
+```sh
+npm run dev
+```
+- Vite+React usually runs on port 5173
